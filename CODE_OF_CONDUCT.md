@@ -8,8 +8,7 @@ Para manter um ambiente acolhedor e inclusivo, todos os contribuidores e partici
 3. **Resolução de Conflitos**: Resolvemos conflitos de forma educada e respeitosa, buscando um entendimento comum.
 4. **Comportamento Inapropriado**: Não toleramos assédio, discriminação, insultos ou qualquer outro comportamento inapropriado.
 
-________________________
-
+__________________________________________________________________________________________________________________________________________________
 Language: ING
 
 ### Code of Conduct
