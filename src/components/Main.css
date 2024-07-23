@@ -1,0 +1,55 @@
+body {
+
+  margin: 0;
+  background: #d4d7c4;
+  font-family: sans-serif;
+}
+
+input {
+  cursor: pointer;
+background-color:#fff;
+font-color: #725c3a;
+border: 1px solid #725c3a;
+autofocus:"true";
+outline: 0;
+font-family: "Edu AU VIC WA NT Hand", cursive;
+color: #725c3a;
+
+}
+
+input:hover {
+  cursor: pointer;
+  border: 1px solid #725c3a;
+autofocus:"true";
+outline: 0;
+font-family: "Edu AU VIC WA NT Hand", cursive;
+color: #725c3a;
+
+}
+
+
+
+.main {
+
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-size: 20px;
+  text-align: center;
+    background-color: #f3f7f8;
+  padding: 30px;
+  margin: 250px auto;
+  max-width: 540px;
+  border-radius: 10px;
+  box-shadow: 0 0 60px #fff;
+}
+
+
+h1 {
+  font-size: 40px;
+  font-family: "Rajdhani";
+   color: #725c3a;
+}
+
+
+
+
+

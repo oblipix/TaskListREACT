@@ -1,0 +1,46 @@
+
+.form {
+    margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.form input[type="text"] {
+  height: 40px;
+  padding: 0 20px;
+  font-size: 20px;
+  border-color: none;
+  min-width: 80px;
+}
+
+.form button[type="submit"] {
+  height: 40px;
+  width: 50px;
+  margin-left: 10px;
+   background: #725c3a;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none; /* Adicionado para consistência, caso precise remover a borda */
+  cursor: pointer; /* Adicionado para melhorar a interatividade do botão */
+  box-shadow: 0 0 20px #d4d7c4;
+}
+
+
+
+.form button:hover[type="submit"] {
+  height: 40px;
+  width: 50px;
+  margin-left: 10px;
+   background: #d4d7c4;
+  color: #725c3a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  transition: all  1200ms;
+}
