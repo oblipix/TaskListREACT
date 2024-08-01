@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/a8fbeab2-b236-40a4-84a7-8ba0809bcb64
 >
 > Uma conta no GitHub (opcional, mas recomendado).
 >
->  Install the necessary packages (Install dependencies)
+>  Instale packages json (Instale dependencias)
 
 
 **Vamos clonar este repositório passo a passo.**
