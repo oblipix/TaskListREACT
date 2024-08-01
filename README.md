@@ -30,7 +30,8 @@ https://github.com/user-attachments/assets/a8fbeab2-b236-40a4-84a7-8ba0809bcb64
 > Se ainda não tiver, baixe e instale o Git a partir deste link.
 >
 > Uma conta no GitHub (opcional, mas recomendado).
-
+>
+>  Install the necessary packages (Install dependencies)
 
 
 **Vamos clonar este repositório passo a passo.**
