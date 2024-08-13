@@ -48,7 +48,7 @@ navegue até a pasta onde deseja clonar.
 `git clone https://github.com/oblipix/listadetarefasREACT.git`
 
 
-<sub> Agora você tem uma cópia local do repositório pomodoro que pode ser modificada conforme necessário. </sub>
+<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
 
